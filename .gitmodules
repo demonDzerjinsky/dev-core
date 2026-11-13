@@ -1,0 +1,3 @@
+[submodule "from-official-java-subscr"]
+	path = from-official-java-subscr
+	url = git@github.com:demonDzerjinsky/from-official-java-subscr.git
